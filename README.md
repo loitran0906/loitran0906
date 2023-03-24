@@ -5,7 +5,7 @@
 <div align="center">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=chienpro987654&show_icons=true&theme=dracula#gh-dark-mode-only" />
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=5&theme=dracula" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpro987654&layout=compact&langs_count=5&theme=dracula" />
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=chienpro987654&show_icons=true&theme=default#gh-light-mode-only" /> -->
   </div>
 </div>
