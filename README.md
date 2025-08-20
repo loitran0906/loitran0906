@@ -4,16 +4,16 @@
 <h3 align="left">My Stats:</h3>
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=chienpro987654&show_icons=true&theme=dracula#gh-dark-mode-only" />
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpro987654&layout=compact&langs_count=5&theme=dracula" />
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=chienpro987654&show_icons=true&theme=default#gh-light-mode-only" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=loitran0906&show_icons=true&theme=dracula#gh-dark-mode-only" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loitran0906&layout=compact&langs_count=5&theme=dracula" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=loitran0906&show_icons=true&theme=default#gh-light-mode-only" /> -->
   </div>
 </div>
 
 <h3 align="left">My Streak:</h3>
 <div align="center">
   <div style="display: flex;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=chienpro987654&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=loitran0906&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" />
   </div>
 </div>
 
